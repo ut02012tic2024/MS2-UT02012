@@ -1,0 +1,67 @@
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\bin\Debug\net8.0\appsettings.json
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\bin\Debug\net8.0\libray.exe
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\bin\Debug\net8.0\libray.deps.json
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\bin\Debug\net8.0\libray.runtimeconfig.json
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\bin\Debug\net8.0\libray.dll
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\bin\Debug\net8.0\libray.pdb
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\obj\Debug\net8.0\libray.csproj.AssemblyReference.cache
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\obj\Debug\net8.0\libray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\obj\Debug\net8.0\libray.AssemblyInfoInputs.cache
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\obj\Debug\net8.0\libray.AssemblyInfo.cs
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\obj\Debug\net8.0\libray.csproj.CoreCompileInputs.cache
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\obj\Debug\net8.0\libray.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\obj\Debug\net8.0\libray.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\obj\Debug\net8.0\staticwebassets\msbuild.libray.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\obj\Debug\net8.0\staticwebassets\msbuild.build.libray.props
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.libray.props
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.libray.props
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\obj\Debug\net8.0\scopedcss\bundle\libray.styles.css
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\obj\Debug\net8.0\libray.csproj.Up2Date
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\obj\Debug\net8.0\libray.dll
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\obj\Debug\net8.0\refint\libray.dll
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\obj\Debug\net8.0\libray.pdb
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\obj\Debug\net8.0\libray.genruntimeconfig.cache
+C:\Users\KAJONI\Desktop\New folder (7)\backend\libray\obj\Debug\net8.0\ref\libray.dll
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\bin\Debug\net8.0\appsettings.json
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\bin\Debug\net8.0\libray.exe
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\bin\Debug\net8.0\libray.deps.json
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\bin\Debug\net8.0\libray.runtimeconfig.json
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\bin\Debug\net8.0\libray.dll
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\bin\Debug\net8.0\libray.pdb
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\obj\Debug\net8.0\libray.csproj.AssemblyReference.cache
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\obj\Debug\net8.0\libray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\obj\Debug\net8.0\libray.AssemblyInfoInputs.cache
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\obj\Debug\net8.0\libray.AssemblyInfo.cs
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\obj\Debug\net8.0\libray.csproj.CoreCompileInputs.cache
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\obj\Debug\net8.0\libray.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\obj\Debug\net8.0\libray.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\obj\Debug\net8.0\libray.sourcelink.json
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\obj\Debug\net8.0\staticwebassets\msbuild.libray.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\obj\Debug\net8.0\staticwebassets\msbuild.build.libray.props
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.libray.props
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.libray.props
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\obj\Debug\net8.0\scopedcss\bundle\libray.styles.css
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\obj\Debug\net8.0\libray.csproj.Up2Date
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\obj\Debug\net8.0\libray.dll
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\obj\Debug\net8.0\refint\libray.dll
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\obj\Debug\net8.0\libray.pdb
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\obj\Debug\net8.0\libray.genruntimeconfig.cache
+C:\Users\UT02012\Desktop\hh\librarysystembackend\backend\libray\obj\Debug\net8.0\ref\libray.dll

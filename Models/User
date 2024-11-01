@@ -1,0 +1,31 @@
+ECHO is on.
+
+
+
+public void ConfigureServices(IServiceCollection services)
+{
+    services.AddControllers();
+    services.AddScoped<IUserService, UserService>();
+    services.AddScoped<IBookService, BookService>();
+    services.AddScoped<IBorrowedService, BorrowedService>();
+    services.AddScoped<IRepository<User>, UserRepository>();
+    services.AddScoped<IRepository<Book>, BookRepository>();
+    services.AddScoped<IRepository<BorrowedBook>, BorrowedBookRepository>();
+}
+
+public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+{
+    if (env.IsDevelopment())
+    {
+        app.UseDeveloperExceptionPage();
+    }
+
+    app.UseRouting();
+
+    app.UseAuthorization();
+
+    app.UseEndpoints(endpoints =>
+    {
+        endpoints.MapControllers();
+    });
+}
